@@ -21,3 +21,4 @@ Meteor.publishComposite('jd4rider_chat', function(doc, sort) {
         ],
     }
 });
+

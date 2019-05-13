@@ -67,6 +67,7 @@ mfactory:admin-lte@0.0.2
 minifier-css@1.4.2
 minifier-js@2.4.1
 minimongo@1.4.5
+mnmtanish:call@1.1.1
 mobile-experience@1.0.5
 mobile-status-bar@1.0.14
 modern-browsers@0.1.4
@@ -98,6 +99,7 @@ sacha:spin@2.0.4
 service-configuration@1.0.11
 sha@1.0.9
 shell-server@0.4.0
+simple:reactive-method@1.0.2
 socket-stream-client@0.2.2
 spacebars@1.0.15
 spacebars-compiler@1.1.3

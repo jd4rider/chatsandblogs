@@ -22,3 +22,5 @@ meteoris:core
 meteoris:theme-admin
 meteoris:user
 meteoris:role
+simple:reactive-method
+mnmtanish:call

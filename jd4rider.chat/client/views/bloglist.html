@@ -1,0 +1,23 @@
+<template name="jd4rider_chatBloglist">
+
+    <div class="container">
+        {{#each mode in modeArray}}
+            {{> mode}}
+        {{/each}}
+
+        {{#each blogs }}
+            <div class="row">
+
+                <div class="col-lg-4">
+                    <h3>{{ title }}</h3>
+                </div>
+
+                <div class="col-lg-5">
+                    <p>{{ body }}</p>
+                </div>
+
+            </div>
+        {{/each }}
+
+    </div>
+</template>

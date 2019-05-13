@@ -72,3 +72,4 @@ Jd4rider.Chat.helpers({
         return Meteor.users.findOne(this.userId);
     }
 });
+
