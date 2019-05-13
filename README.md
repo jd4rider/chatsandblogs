@@ -1,6 +1,6 @@
 ## Chats and Blogs
 
-Chats and Blogs is a simple real-time app built with Meteor. 
+Chats and Blogs is a simple real-time app built with Meteor using [Meteoris](https://github.com/meteoris/meteoris).
 
 ## Running the Sample
 
